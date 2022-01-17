@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Crewcharge - SaaS Customer Retention Tool Documentaiton',
+  tagline: 'SaaS Customer Retention Tool Crewcharge Documentation APIs',
+  url: 'https://crewcharge.github.io/docs/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'crewcharge', // Usually your GitHub org/user name.
+  projectName: 'crewcharge', // Usually your repo name.
 
   presets: [
     [
