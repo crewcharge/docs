@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'crewcharge', // Usually your GitHub org/user name.
-  projectName: 'crewcharge', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
 
   presets: [
     [
