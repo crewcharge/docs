@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Crewcharge - SaaS Customer Retention Tool Documentaiton',
   tagline: 'SaaS Customer Retention Tool Crewcharge Documentation APIs',
-  url: 'https://crewcharge.github.io/docs/',
+  url: 'https://docs.crewcharge.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
