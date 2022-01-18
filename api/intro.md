@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+
 ---
 
-# Tutorial Intro
+# API Intro
 
 Let's discover **Crewcharge in less than 5 minutes**.
 
@@ -10,7 +10,7 @@ Let's discover **Crewcharge in less than 5 minutes**.
 
 Create your account using https://www.crewcharge.com/auth/signin. You can use email or google authentication.
 
-Before you can start using our APIs or integrate analytics, marketing automation and retention strategies, create a project using 
+Before you can start using our APIs or integrate analytics, marketing automation and retention strategies, create a project using
 https://www.crewcharge.com/
 
 ## Generate a new site
