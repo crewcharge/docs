@@ -2,35 +2,29 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Crewcharge in less than 5 minutes**.
+Let's discover how to add your Saas 🦄 onto **Crewcharge in less than 5 minutes**.
 
 ## Getting Started With Crewcharge
 
 Create your account using https://www.crewcharge.com/auth/signin. You can use email or google authentication.
 
-Before you can start using our APIs or integrate analytics, marketing automation and retention strategies, create a project using 
-https://www.crewcharge.com/
+## Enter your basic information
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
+We collect information about your name, date of birth and role, so we can serve you better.
 
 ```shell
-npm init docusaurus@latest my-website classic
+https://www.crewcharge.com/onboard/basic-info
 ```
 
-## Start your site
+## Add your first project
 
-Run the development server:
+Add your first SaaS project on Crewcharge using
 
 ```shell
-cd my-website
-
-npx docusaurus start
+https://www.crewcharge.com/onboard/projects-and-teams
 ```
 
-Your site starts at `http://localhost:3000`.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+**Congratulations!** 💃 You have just added your first project onto Crewcharge. 
