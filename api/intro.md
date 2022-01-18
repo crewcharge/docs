@@ -4,33 +4,25 @@
 
 # API Intro
 
-Let's discover **Crewcharge in less than 5 minutes**.
+Let's discover **Crewcharge APIs** to build triggers, workflows and marketing automations for SaaS retention.
 
-## Getting Started With Crewcharge
+## Basic Concepts
 
-Create your account using https://www.crewcharge.com/auth/signin. You can use email or google authentication.
+Please cover the basic concepts of 
+- Triggers
+- Workflows
+- API Keys
 
-Before you can start using our APIs or integrate analytics, marketing automation and retention strategies, create a project using
-https://www.crewcharge.com/
+at 
+```shell
+https://docs.crewcharge.com/docs/intro
+```
+before proceeding to this part.
+## Learn Using Postman
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
+We believe "go fast and break things" help when it comes to building stuff, please explore our API Collection below
 
 ```shell
-npm init docusaurus@latest my-website classic
+https://bit.ly/crew-charge-api-v1
 ```
 
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
