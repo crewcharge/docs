@@ -116,7 +116,7 @@ const config = {
                             ],
                         },
                     ],
-                    copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                    copyright: `Copyright © ${new Date().getFullYear()} Crewcharge.`,
                 },
                 prism: {
                     theme: lightCodeTheme,
