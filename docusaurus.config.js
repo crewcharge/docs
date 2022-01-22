@@ -10,7 +10,7 @@ const config = {
         tagline: 'SaaS Customer Retention Tool Crewcharge Documentation APIs',
         url: 'https://docs.crewcharge.com',
         baseUrl: '/',
-        onBrokenLinks: 'throw',
+        onBrokenLinks: 'warn',
         onBrokenMarkdownLinks: 'warn',
         favicon: 'img/favicon.ico',
         organizationName: 'crewcharge', // Usually your GitHub org/user name.
