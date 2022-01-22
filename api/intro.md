@@ -9,13 +9,14 @@ Let's discover **Crewcharge APIs** to build triggers, workflows and marketing au
 ## Basic Concepts
 
 Please cover the basic concepts of 
-- Triggers
-- Workflows
-- API Keys
+- [Triggers](/Basics/Trigger)
+- [Workflows](/Basics/Workflow)
+- [Analytics Tag](/Integration/Analytics%20Tag)
+- [API Key](/Integration/API%20Key)
 
 at 
 ```shell
-https://docs.crewcharge.com/docs/intro
+https://docs.crewcharge.com/intro
 ```
 before proceeding to this part.
 ## Learn Using Postman

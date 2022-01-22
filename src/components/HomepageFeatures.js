@@ -8,7 +8,7 @@ const FeatureList = [
         Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
         description: (
             <>
-                Crewcharge is built from the scratch up for marketers and developers to boost SAAS customer retention.
+                Crewcharge is built from the scratch up for marketers and developers to boost SaaS customer retention.
                 It's easy to use with easy API, integration plugins, webhooks, and more.
             </>
         ),

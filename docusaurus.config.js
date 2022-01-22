@@ -23,7 +23,7 @@ const config = {
                 ({
                     docs: {
                         path: 'docs',
-                        routeBasePath: 'docs',
+                        routeBasePath: '/',
                         sidebarPath: require.resolve('./sidebars.js'),
                         // Please change this to your repo.
                         editUrl: 'https://github.com/crewcharge/docs/',
@@ -42,6 +42,16 @@ const config = {
                     id: 'api',
                     path: 'api',
                     routeBasePath: 'api',
+                    sidebarPath: require.resolve('./sidebars.js'),
+                    // ... other options
+                },
+            ],
+            [
+                '@docusaurus/plugin-content-docs',
+                {
+                    id: 'integration',
+                    path: 'integration',
+                    routeBasePath: 'integration',
                     sidebarPath: require.resolve('./sidebars.js'),
                     // ... other options
                 },
@@ -65,6 +75,12 @@ const config = {
                             label: 'Tutorial',
                         },
                         {
+                            to: '/integration/intro', // ./docs-api/Intro.md
+                            label: 'Integration',
+                            position: 'left',
+                            activeBaseRegex: `/integration/`,
+                        },
+                        {
                             to: '/api/intro',    // ./docs-api/Intro.md
                             label: 'API',
                             position: 'left',
@@ -81,11 +97,25 @@ const config = {
                     style: 'dark',
                     links: [
                         {
-                            title: 'Docs',
+                            title: 'Quick Links',
                             items: [
+                                {
+                                    label: 'Customer Retention Tool',
+                                    to: 'https://www.crewcharge.com',
+                                },
                                 {
                                     label: 'Tutorial',
                                     to: '/docs/intro',
+                                },
+
+                                {
+                                    label: 'Integration',
+                                    to: '/integration/intro',
+                                },
+
+                                {
+                                    label: 'API',
+                                    to: '/api/intro',
                                 },
                             ],
                         },
