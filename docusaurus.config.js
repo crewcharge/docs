@@ -15,7 +15,20 @@ const config = {
         favicon: 'img/favicon.ico',
         organizationName: 'crewcharge', // Usually your GitHub org/user name.
         projectName: 'docs', // Usually your repo name.
-
+        scripts: [
+            {
+                src: 'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
+                async: true,
+            },
+            {
+                src: 'https://www.crewcharge.com/v1/logger.js',
+                async: true,
+            },
+            {
+                src: '/clarity.js',
+                async: true,
+            }
+        ],
         presets: [
             [
                 'classic',
