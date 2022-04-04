@@ -14,7 +14,7 @@ Let's discover how to add your Saas 🦄 onto **Crewcharge in less than 5 minute
 
 ## Create an account with account
 
-Create your account using https://www.crewcharge.com/auth/signin. You can use email or google authentication.
+Create your account using https://app.crewcharge.com/api/auth/signin. You can use email or google authentication.
 
 ![Creating an account with Crewcharge](https://imgur.com/ZOZg06Q.png)
 
